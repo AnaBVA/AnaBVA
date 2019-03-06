@@ -1,0 +1,16 @@
+name: "AnaBVA"
+navbar:
+  title: "Ana B. Villaseñor-Altamirano"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Contact"
+      href: contact.html
+    - text: "Education"
+      href: education.html
+      
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    css: styles.css
