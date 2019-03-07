@@ -20,18 +20,65 @@ library(fontawesome)
 
 ## Honors and awards
 
-Sep/17-Nov/17
-BECA MIXTA Consejo Nacional de Ciencia y Tecnología (CONACYT, Mexico). 
-2017-to day
-BECA Consejo Nacional de Ciencia y Tecnología (CONACYT, Mexico).
-2013-2015
-BECA Consejo Nacional de Ciencia y Tecnología (CONACYT, Mexico).  
-Sep/14-Feb/15
-BECA MIXTA Consejo Nacional de Ciencia y Tecnología (CONACYT, Mexico).
-Sep-2013
-CINVESTAV institutional SUPPORT.
-2007-2011
-BECA INSTITUCIONAL IPN (Institutional scholarship).
-Nov/2011
-AWARD OF EXCHANGE AND LINKED PROGRAM, CINVESTAV-IPN.
+
+
+#### Ph.D. Scholarship 
+
+Consejo Nacional de Ciencia y Tecnología (CONACYT, Mexico).
+
+ `r fa("calendar", fill = "grey")` *2017 - current*
+ 
+<br>
+
+#### Graduate Student Mobility Scholarship (BECA MIXTA)  
+
+Consejo Nacional de Ciencia y Tecnología (CONACYT, Mexico).
+
+ `r fa("calendar", fill = "grey")` *2017*	
+ 
+<br>
+
+#### Master's Scholarship
+
+Consejo Nacional de Ciencia y Tecnología (CONACYT, Mexico).
+
+ `r fa("calendar", fill = "grey")` *2013 - 2015*	
+ 
+<br>
+
+
+#### Graduate Student Mobility Scholarship (BECA MIXTA)  
+
+Consejo Nacional de Ciencia y Tecnología (CONACYT, Mexico).
+
+ `r fa("calendar", fill = "grey")` *2014-2015*	
+
+<br>
+
+
+#### Summer Scholarship   
+
+CINVESTAV
+
+ `r fa("calendar", fill = "grey")` *2013*	
+
+<br>
+
+
+#### Undergraduate Student Mobility Award 
+
+CINVESTAV
+
+ `r fa("calendar", fill = "grey")` *2011*	
+
+<br>
+
+
+#### Undergraduate Scholarship   
+
+IPN
+
+ `r fa("calendar", fill = "grey")` *2007-2011*	
+
+<br>
 

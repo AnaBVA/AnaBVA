@@ -2,12 +2,22 @@
 title: "Projects"
 ---
 
-PulmonDB
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
 
+#### `r fa("archive",18, fill = "grey")` PulmonDB
 
-### Projects
+We are working in PulmonDB, a gene expression lung diseases database, created with public transcriptomic high-throuput data and manual curation information with an online interface for a quick accessibility. 
 
-* Worked in collaboration with [Mina Ryten](http://www.ucl.ac.uk/ukpdc/research-groups/neurogenomics-group/mina-ryten)'s lab at [University College London's Institute of Neurology](https://www.ucl.ac.uk/ion/) to analyze [Genotype-Tissue Expression (GTEx)](https://www.gtexportal.org/) project data to explore gene expression variability across brain regions
-    - Analyzed GTEx brain samples from [recount2](http://bioconductor.org/packages/recount) using [recount.bwtool](https://github.com/LieberInstitute/recount.bwtool) with [JHPCE](https://jhpce.jhu.edu), a high-performance computing environment
-* Capstone: Applying Statistical Correction for Brain Tissue Degradation to Gene Expression in Schizophrenia 
-    - Analyzed postmortem human brain RNA-sequencing data in [R](https://cran.r-project.org) using [Bioconductor](https://www.bioconductor.org) packages with [JHPCE](https://jhpce.jhu.edu)
+<br>
+
+#### `r fa("archive",18, fill = "grey")` Gene expression profile in COPD patients
+
+Using PulmonDB we are analysing gene expression profiles in COPD patients to understand better the disease. 
+
+<br>
+
+#### `r fa("archive",18, fill = "grey")` Alternative Splicing in TCDD exposure.
+
+Analyzed exon microarrays of mouse liver to characterize alternative splicing events under TCDD exposure 
