@@ -4,10 +4,16 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Experience"
+      href: experience.html
+    - text: "Education"
+      href: education.html      
     - text: "Contact"
       href: contact.html
-    - text: "Education"
-      href: education.html
       
 output:
   html_document:

@@ -1,0 +1,97 @@
+---
+title: "Experience"
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    self_contained: false
+---
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+
+## 	Internships
+
+#### [__Vancouver Prostate Center__](https://www.prostatecentre.com/)  
+
+ Michael Cox's Laboratory
+ 
+ `r fa("calendar", fill = "grey")` *Jun 2010 – Ago 2010*
+ 
+ [`r fa("thumbtack", fill = "grey")` Vancouver, Canada](https://goo.gl/maps/9CuRJuufCQk)  
+
+<br>  
+
+#### [__Ontario Institute for Cancer Research__](https://oicr.on.ca/) 
+
+ Paul C. Boutros' Laboratory 
+
+ `r fa("calendar", fill = "grey")`*Sep 2014 – May 2016* 	
+ 
+ [`r fa("thumbtack", fill = "grey")` Toronto, Canada](https://goo.gl/maps/JcXhPdafWg72)
+
+<br> 
+
+#### [__Fundazione Edmun Mach__](https://www.fmach.it/) 
+
+
+Department of Bioinformatics, Marco Moretto
+
+ `r fa("calendar", fill = "grey")` *Sep 2017 – Dic 2017*		
+ 
+ [`r fa("thumbtack", fill = "grey")` Trento, Italy](https://goo.gl/maps/Hkd3gqxngS92)
+
+<br><br>
+
+## 	Seminars, conferences
+
+
+#### Statistical and Computational Challenges in High-Throughput Genomics with Application to Precision Medicine
+ `r fa("calendar", fill = "grey")` *2018*	
+ 
+ `r fa("thumbtack", fill = "grey")`  Oaxaca, Mexico
+
+<br>
+
+#### American Thoracic Society 2018, International Conference
+ `r fa("calendar", fill = "grey")` *2018*	
+ 
+ `r fa("thumbtack", fill = "grey")`  San Diego, CA
+
+<br>  
+
+#### International Workshops on Bioinformatics-PYTHON
+ `r fa("calendar", fill = "grey")` *2017*	
+ 
+ `r fa("thumbtack", fill = "grey")`  CCG, UNAM
+
+<br><br>
+
+## Teaching
+
+#### Ecology/R Workshop in DataCarpentry
+Instructor 2018
+
+ `r fa("university", fill = "grey")`  Universidad de Puerto Rico
+
+ `r fa("calendar", fill = "grey")` *2017*	
+ 
+ `r fa("thumbtack", fill = "grey")`  Puerto Rico, San Juan
+
+
+<br>  
+
+#### International Workshops on Bioinformatics-GALAXY
+Teacher Assistant
+
+ `r fa("university", fill = "grey")`  Universidad Nacional Autonoma de México
+
+ `r fa("calendar", fill = "grey")` *2017*	
+ 
+ `r fa("thumbtack", fill = "grey")`  México, CCG
+
+
+
+

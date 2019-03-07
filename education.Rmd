@@ -2,8 +2,36 @@
 title: "Education"
 ---
 
-Ph.D candidate in biomedicine
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
 
-Master of science in cell biology
+#### `r fa("graduation-cap", fill = "steelblue")` __Ph.D. candidate in	Biomedical Sciences__, *current*
+##### National University of Mexico ([UNAM](https://www.unam.mx/))
 
-Biochemical Engineer 
+#### `r fa("graduation-cap", fill = "steelblue")` __Master of Science in Cell Biology__, *2016*
+##### Centro de Investigaciones y Estudios Avanzados del IPN ([CINVESTAV](https://www.cinvestav.mx/))
+
+#### `r fa("graduation-cap", fill = "steelblue")` __Bachelor in Biochemical Engineering__, *2012*
+##### Escuela Nacional de Ciencias Biológicas del Instituto Politécnico Nacional ([IPN](https://www.ipn.mx/))
+
+<br><br>
+
+
+## Honors and awards
+
+Sep/17-Nov/17
+BECA MIXTA Consejo Nacional de Ciencia y Tecnología (CONACYT, Mexico). 
+2017-to day
+BECA Consejo Nacional de Ciencia y Tecnología (CONACYT, Mexico).
+2013-2015
+BECA Consejo Nacional de Ciencia y Tecnología (CONACYT, Mexico).  
+Sep/14-Feb/15
+BECA MIXTA Consejo Nacional de Ciencia y Tecnología (CONACYT, Mexico).
+Sep-2013
+CINVESTAV institutional SUPPORT.
+2007-2011
+BECA INSTITUCIONAL IPN (Institutional scholarship).
+Nov/2011
+AWARD OF EXCHANGE AND LINKED PROGRAM, CINVESTAV-IPN.
+
