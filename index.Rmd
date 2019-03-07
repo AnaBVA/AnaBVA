@@ -1,21 +1,11 @@
 ---
 title: "Ana Beatriz Villaseñor-Altamirano"
-output:
-  html_document:
-    toc: true
-    toc_depth: 3
-    toc_float: true
-    self_contained: false
 
 ---
 
-<script>
-  $(document).ready(function() {
-    $('#TOC').parent().prepend('<div id=\"nav_logo\"><img src=\"images/liigh.png"></div>');
-  });
-</script>
+<img src="images/yo-photo.jpg" style="width:25%; margin-left: 50px" align="right">
 
-
+<br><br> 
 
 I am a Ph.D. candidate in [Alejandra Medina-Rivera](http://liigh.unam.mx/profile/dra-alejandra-medina-rivera/)'s lab, the [Regulatory Genomics and Bioinformatics Laboratory](http://liigh.unam.mx/amedina/) at International Laboratory for Human Genome Research ([LIIGH](http://liigh.unam.mx/)) from the National Autonomous University of Mexico ([UNAM](https://www.unam.mx/)). Our goal is to integrate public microarray and RNA-seq data, together with samples manually curated of lung diseases, such as Chronic Obstructive Pulmonary Disease (COPD) and Idiopatic Pulmonary Fibrosis (IPF) for better characterization of gene expression signatures. We work in close colaboration with [Julio Collado-Vides](http://www.ccg.unam.mx/pedro-julio-collado-vides/), [Moises Selman](https://es.wikipedia.org/wiki/Mois%C3%A9s_Selman) and [Yalbi I. Balderas-Martíne](https://scholar.google.com.mx/citations?user=2hvieWAAAAAJ&hl=es).
 

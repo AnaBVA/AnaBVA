@@ -49,10 +49,21 @@ Department of Bioinformatics, Marco Moretto
 
 <br><br>
 
-## 	Seminars, conferences
+## 	Seminars, conferences and workshops
 
+
+#### WGCAC Next Generation Sequencing Bioinformatics Chile 2019
+ Workshop attendee
+ 
+ `r fa("calendar", fill = "grey")` *2019*	
+ 
+ `r fa("thumbtack", fill = "grey")`  Santiago, Chile
+
+<br>
 
 #### Statistical and Computational Challenges in High-Throughput Genomics with Application to Precision Medicine
+Talk
+
  `r fa("calendar", fill = "grey")` *2018*	
  
  `r fa("thumbtack", fill = "grey")`  Oaxaca, Mexico
@@ -60,6 +71,8 @@ Department of Bioinformatics, Marco Moretto
 <br>
 
 #### American Thoracic Society 2018, International Conference
+Poster
+
  `r fa("calendar", fill = "grey")` *2018*	
  
  `r fa("thumbtack", fill = "grey")`  San Diego, CA
@@ -67,6 +80,8 @@ Department of Bioinformatics, Marco Moretto
 <br>  
 
 #### International Workshops on Bioinformatics-PYTHON
+Workshop attendee
+
  `r fa("calendar", fill = "grey")` *2017*	
  
  `r fa("thumbtack", fill = "grey")`  CCG, UNAM

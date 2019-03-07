@@ -2,7 +2,7 @@
 title: "About"
 ---
 <br><br>
-<img src="images/yo-photo.jpg" style="width:25%; margin-right: 50px" align="left">
+<img src="images/ibq.jpg" style="width:25%; margin-right: 50px" align="left">
 
 <br><br><br><br>
 
