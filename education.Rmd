@@ -1,26 +1,27 @@
 ---
 title: "Education"
 ---
+<br><br>
+<img src="images/ibq.jpg" style="width:25%; margin-right: 50px" align="left">
 
+<br><br>
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
 library(fontawesome)
 ```
 
-#### `r fa("graduation-cap", fill = "steelblue")` __Ph.D. candidate in	Biomedical Sciences__, *current*
+#### `r fa("graduation-cap", fill = "steelblue")` [__Ph.D. candidate in	Biomedical Sciences__](http://www.pdcb.unam.mx/), *current*
 ##### National University of Mexico ([UNAM](https://www.unam.mx/))
 
-#### `r fa("graduation-cap", fill = "steelblue")` __Master of Science in Cell Biology__, *2016*
+#### `r fa("graduation-cap", fill = "steelblue")` [__Master of Science in cell biology__](https://www.cell.cinvestav.mx/depto.php?lang=es&tit=1), *2016*
 ##### Centro de Investigaciones y Estudios Avanzados del IPN ([CINVESTAV](https://www.cinvestav.mx/))
 
-#### `r fa("graduation-cap", fill = "steelblue")` __Bachelor in Biochemical Engineering__, *2012*
-##### Escuela Nacional de Ciencias Biológicas del Instituto Politécnico Nacional ([IPN](https://www.ipn.mx/))
+#### `r fa("graduation-cap", fill = "steelblue")` [__Bachelor in Biochemical Engineering__](https://www.encb.ipn.mx/licenciatura/ingenieriaBioquimica/index.html), *2012*
+##### National Biological Science School ([ENCB](https://www.encb.ipn.mx/Paginas/index.html)), [IPN](https://www.ipn.mx/)
 
-<br><br>
+<br><br><br><br><br><br>
 
 
 ## Honors and awards
-
-
 
 #### Ph.D. Scholarship 
 
@@ -82,3 +83,7 @@ IPN
 
 <br>
 
+
+<center>
+![IPN](images/IPN.png){width=10%} ![CINVESTAV](images/Cinvestav.jpg){width=10%} ![UNAM](images/UNAM.jpg){width=10%}
+</center>

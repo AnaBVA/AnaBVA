@@ -3,13 +3,36 @@ title: "Ana Beatriz Villaseñor-Altamirano"
 
 ---
 
+
 <img src="images/yo-photo.jpg" style="width:25%; margin-left: 50px" align="right">
 
-<br><br> 
 
-I am a Ph.D. candidate in [Alejandra Medina-Rivera](http://liigh.unam.mx/profile/dra-alejandra-medina-rivera/)'s lab, the [Regulatory Genomics and Bioinformatics Laboratory](http://liigh.unam.mx/amedina/) at International Laboratory for Human Genome Research ([LIIGH](http://liigh.unam.mx/)) from the National Autonomous University of Mexico ([UNAM](https://www.unam.mx/)). Our goal is to integrate public microarray and RNA-seq data, together with samples manually curated of lung diseases, such as Chronic Obstructive Pulmonary Disease (COPD) and Idiopatic Pulmonary Fibrosis (IPF) for better characterization of gene expression signatures. We work in close colaboration with [Julio Collado-Vides](http://www.ccg.unam.mx/pedro-julio-collado-vides/), [Moises Selman](https://es.wikipedia.org/wiki/Mois%C3%A9s_Selman) and [Yalbi I. Balderas-Martíne](https://scholar.google.com.mx/citations?user=2hvieWAAAAAJ&hl=es).
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+
+
+<br>
+
+I am a Ph.D. candidate in [Alejandra Medina-Rivera](http://liigh.unam.mx/profile/dra-alejandra-medina-rivera/)'s lab, the [Regulatory Genomics and Bioinformatics Laboratory](http://liigh.unam.mx/amedina/) at International Laboratory for Human Genome Research ([LIIGH](http://liigh.unam.mx/)) from the National Autonomous University of Mexico ([UNAM](https://www.unam.mx/)). Our goal is to integrate public microarray and RNA-seq data, together with samples manually curated of lung diseases, such as Chronic Obstructive Pulmonary Disease (COPD) and Idiopatic Pulmonary Fibrosis (IPF) for better characterization of gene expression signatures. We work in close colaboration with [Julio Collado-Vides](http://www.ccg.unam.mx/pedro-julio-collado-vides/), [Moises Selman](https://es.wikipedia.org/wiki/Mois%C3%A9s_Selman) and [Yalbi I. Balderas-Martínez](https://scholar.google.com.mx/citations?user=2hvieWAAAAAJ&hl=es).
+
+<br> 
+
+ `r fa("user", fill= "steelblue")` __Name:__ Ana Beatriz Villaseñor-Altamirano
+ 
+ `r fa("briefcase", fill= "steelblue")` __Ocupation:__ Ph.D. Student
+ 
+ `r fa("globe", fill= "steelblue")` __Nationality:__ Mexican
+ 
+ `r fa("university", fill= "steelblue")` __Bachelor:__ Biochemical Engineering 
+ 
+ `r fa("university", fill= "steelblue")` __M.Sc.:__ Master of Science in Cell Biology
+
+
 
 <br><br>
+
 
 ## Interests
 
@@ -24,10 +47,6 @@ I am a Ph.D. candidate in [Alejandra Medina-Rivera](http://liigh.unam.mx/profile
 
 
 ## Publications
-
-```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
-library(fontawesome)
-```
 
  `r fa("file-alt", fill = "grey")`  Moretto M, Sonego P, Villaseñor-Altamirano AB, Engelen K. [First step toward gene expression data integration: transcriptomic data acquisition with COMMAND> _](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2643-6). BMC bioinformatics. 2019 Dec;20(1):54.
 

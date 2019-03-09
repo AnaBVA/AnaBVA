@@ -17,7 +17,7 @@ library(fontawesome)
 
 
 
-#### [__Fundazione Edmun Mach__](https://www.fmach.it/) 
+#### [__Fundazione Edmund Mach__](https://www.fmach.it/) 
 
 
 Department of Bioinformatics, Marco Moretto
@@ -26,6 +26,7 @@ Department of Bioinformatics, Marco Moretto
  
  [`r fa("thumbtack", fill = "grey")` Trento, Italy](https://goo.gl/maps/Hkd3gqxngS92)
 
+Set non-public resource to build compendia in Mexico.
 
 <br>  
 
@@ -37,6 +38,8 @@ Department of Bioinformatics, Marco Moretto
  
  [`r fa("thumbtack", fill = "grey")` Toronto, Canada](https://goo.gl/maps/JcXhPdafWg72)
 
+Explored exon microarrays of mouse liver to characterize alternative splicing events under TCDD exposure. 
+
 <br> 
 
 #### [__Vancouver Prostate Center__](https://www.prostatecentre.com/)  
@@ -46,6 +49,9 @@ Department of Bioinformatics, Marco Moretto
  `r fa("calendar", fill = "grey")` *Jun 2010 – Ago 2010*
  
  [`r fa("thumbtack", fill = "grey")` Vancouver, Canada](https://goo.gl/maps/9CuRJuufCQk)  
+
+ Analyzed cell growth, viability, and metastasis by transfectin postate cell lines to uncover potential prostate cancer driver genes.
+
 
 <br><br>
 
