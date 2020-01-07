@@ -48,10 +48,21 @@ I am a Ph.D. candidate in [Alejandra Medina-Rivera](http://liigh.unam.mx/profile
 
 ## Publications
 
- `r fa("file-alt", fill = "grey")`  Moretto M, Sonego P, Villaseñor-Altamirano AB, Engelen K. [First step toward gene expression data integration: transcriptomic data acquisition with COMMAND> _](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2643-6). BMC bioinformatics. 2019 Dec;20(1):54.
+ `r fa("file-alt", fill = "grey")` Villasenor-Altamirano, A.B., Watson, J.D., Prokopec, S.D., Yao, C.Q., Boutros, P.C., Pohjanvirta, R., Valdes-Flores, J. and Elizondo, G. (2019). [2, 3, 7, 8-Tetrachlorodibenzo-p-dioxin modifies alternative splicing in mouse liver](https://journals.plos.org/plosone/article/file?type=printable&id=10.1371/journal.pone.0219747). PloS one, 14(8).
+
+
+ `r fa("file-alt", fill = "grey")`  Moretto M, Sonego P, Villaseñor-Altamirano AB, Engelen K. (2019).[First step toward gene expression data integration: transcriptomic data acquisition with COMMAND> _](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2643-6). BMC bioinformatics. 2019 Dec;20(1):54.
 
 #### *Abstracts*
 
  `r fa("file-alt",fill = "grey")`  Villasenor-Altamirano AB, Balderas-Martinez YI, Moretto M, Zayas-Del Moral A, Maldonado M, Munguia-Reyes A, Garcia-Sotelo JS, Aguilar Bautista LA, Ramirez-Navarro L, Santillan O, Engelen K. [PulmonDB: A Gene Expression Lung Diseases](https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2018.197.1_MeetingAbstracts.A7686). InAMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE 2018 Jan 1 (Vol. 197). 25 BROADWAY, 18 FL, NEW YORK, NY 10004 USA: AMER THORACIC SOC.
 
+#### *Pre-prints*
+
+ `r fa("file-alt",fill = "grey")` Villaseñor-Altamirano, A.B., Moretto, M., Zayas-Del Moral, A., Maldonado, M., Munguía-Reyes, A., Romero, Y., García-Sotelo, J.S., Aguilar, L.A., Oscar, A.A., Engelen, K. and Selman, M., 2019. [PulmonDB: a curated lung disease gene expression database](https://www.biorxiv.org/content/10.1101/726745v1.abstract). bioRxiv, p.726745.
+
+
+#### *Websites*
+
+ `r fa("desktop",fill = "grey")` [PulmonDB](http://pulmondb.liigh.unam.mx/)
 

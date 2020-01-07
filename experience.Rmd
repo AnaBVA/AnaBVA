@@ -15,12 +15,28 @@ library(fontawesome)
 
 ## 	Internships
 
+#### [__Dana-Farber Cancer Institute__](https://www.dana-farber.org/) 
+
+
+Department of Data Sciences, [Rafael A Irizarry Laboratory](https://www.dana-farber.org/find-a-doctor/rafael-a-irizarry/)
+
+ `r fa("calendar", fill = "grey")` *Nov 2019 – Jan 2020*		
+ 
+ [`r fa("thumbtack", fill = "grey")` Boston, USA](https://goo.gl/maps/vrfnSmsPkGKwM6a29)
+
+PulmonDB data analysis.
+
+<br> 
+
+
+
 
 
 #### [__Fundazione Edmund Mach__](https://www.fmach.it/) 
 
 
 Department of Bioinformatics, Marco Moretto
+
 
  `r fa("calendar", fill = "grey")` *Sep 2017 – Dic 2017*		
  

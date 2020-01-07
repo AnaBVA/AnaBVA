@@ -1,0 +1,12 @@
+---
+title: "Contact"
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+
+ `r fa("envelope",18, fill = "grey")` aaltamirano@liigh.unam.mx
+ 
+ `r fa("twitter",20, fill = "#339af0")` [AnaBetty2304](https://twitter.com/AnaBetty2304)

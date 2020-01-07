@@ -1,0 +1,40 @@
+---
+title: "Projects"
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+#### `r fa("archive",18, fill = "grey")` PulmonDB (available soon)
+
+We are working in PulmonDB, a gene expression lung diseases database, created with public transcriptomic high-throuput data and manual curation information with an online interface for a quick accessibility. 
+
+<br>
+
+#### `r fa("archive",18, fill = "grey")` Gene expression profile in COPD patients
+
+Using PulmonDB we are analysing gene expression profiles in COPD patients to understand better the disease. 
+
+<br>
+
+## 	Past Projects
+
+
+#### `r fa("archive",18, fill = "grey")` Alternative Splicing in TCDD exposure.
+
+ `r fa("thumbtack", fill = "grey")` [Guillermo Elizondo-Azuela's lab](https://www.cell.cinvestav.mx/depto.php?lang=es&tit=4&subt=1&subsubt=6) and [Paul Boutros' lab](https://labs.oicr.on.ca/boutros-lab/software)
+
+My project aim was to unscramble the alternative splicing effects of TCDD in C57BL6 mouse hepatocytes using high-throughput data.
+
+
+
+<br>
+
+#### `r fa("archive",18, fill = "grey")` IGFBP2 in hepatocarcinogenesis.
+
+ `r fa("thumbtack", fill = "grey")` [Saúl Villa-Treviño's lab](https://www.cell.cinvestav.mx/depto.php?lang=es&tit=4&subt=1&subsubt=11)
+
+I characterized the protein expression of Insulin-Like Growth Factor Binding Protein II (IGFBP2) during the develompent of cancer in rat livers using blood and tissue.
+
+
